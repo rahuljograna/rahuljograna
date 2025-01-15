@@ -1,5 +1,5 @@
 <h1 id="rahuljograna-title">:wave: Hello there! I'm Rahul Jograna</h1>
-<h3>I am a Mobile App Connoisseur.</h3>
+<h3>I am a Mobile App Expert.</h3>
 
 Elite Author @ [codecanyon](https://codecanyon.net/user/initappz/portfolio)
 
@@ -8,7 +8,7 @@ Elite Author @ [codecanyon](https://codecanyon.net/user/initappz/portfolio)
 
 <h2 id="rahuljograna-tech">Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things I like working with.
 
 <table>
   <tr>
